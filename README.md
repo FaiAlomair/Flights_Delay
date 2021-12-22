@@ -21,4 +21,5 @@ Algorithms:
 Tools:
 
 • Technologies: Python using Jupyter Notebook
+
 • Libraries : Pandas , Matplotlib and Seaborn
