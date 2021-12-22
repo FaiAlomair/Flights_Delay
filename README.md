@@ -19,5 +19,6 @@ Algorithms:
 • Conducting various data analysis on different causes to drive conclusions
 
 Tools:
+
 • Technologies: Python using Jupyter Notebook
 • Libraries : Pandas , Matplotlib and Seaborn
