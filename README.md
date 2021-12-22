@@ -12,6 +12,7 @@ Data:
 The dataset is provided in .csv format. It contains 1,936758 flight , each flight has 30 features. The most relevant feature to this project is the Flights Delay. It is obtained from DataExpo. 
 
 Algorithms:
+
 • Cleaning all data feature by removing all non-values, removing duplicated rows.
 • Analyzing relationship between different data features.
 • Filtering, aggregating delays to obtain overall delay time
